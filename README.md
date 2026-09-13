@@ -28,7 +28,6 @@ and ERP systems** — the point where accounting, logistics and code meet.
 - **AI Engineering Intern at EDM** — a Python / FastAPI document-intelligence
   service with hybrid retrieval over Qdrant and a Neo4j knowledge graph,
   automated with n8n and containerised with Docker.
-- **German A1** — because languages compound.
 
 ## Tech I work with
 
