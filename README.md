@@ -1,4 +1,4 @@
-# Hi, I'm Jalal 👋
+# Hi, I'm Jalal 
 
 **Backend Engineer — Python, PostgreSQL & Odoo**
 📍 Beirut, Lebanon · Open to relocation across Europe
