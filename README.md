@@ -1,44 +1,52 @@
-# Hi, I'm Jalal 
+<img width="549" height="698" alt="image" src="https://github.com/user-attachments/assets/20c5bc12-b4df-46af-b79a-fde3cc06ad4e" /><img width="549" height="698" alt="image" src="https://github.com/user-attachments/assets/443499b4-824d-4614-a4bb-b3ec635563a1" /># Hi, I'm Jalal
 
-**Backend Engineer — Python, PostgreSQL & Odoo**
-📍 Beirut, Lebanon · Open to relocation
+**Computer Science Graduate | Technical Support & Software Implementation**
 
----
+Based in Beirut, Lebanon.
 
-I'm a Computer Science graduate from the **Lebanese American University**
-(June 2026), currently an **AI Engineering Intern at EDM**, working mainly
-in Python.
+I graduated from the **Lebanese American University in June 2026** and currently work as an **AI Engineering Intern at EDM**.
 
-Most of my work is backend: designing relational schemas, building REST
-APIs, and getting data out of messy sources and into something queryable.
-Before EDM I interned at **UFA Assurance** on a .NET / Entity Framework
-Core / SQL Server insurance platform, writing validation for the full
-proposal lifecycle. My senior capstone replaced a 24-year-old Oracle Forms
-system at the Lebanese Ministry of Interior with a full-stack React,
-Node.js and MySQL application.
+My experience includes business software, API integrations, data validation, testing and technical documentation. I’m interested in junior technical support, application support and software implementation opportunities where I can investigate issues, understand business workflows and help users work effectively with software.
 
-I'm most interested in **backend and full-stack engineering on enterprise
-and ERP systems** — the point where accounting, logistics and code meet.
+## Experience
 
-## What I'm working on
+**EDM — AI Engineering Internship**
 
-- **Odoo Trading & Automation Lab** — a self-directed Odoo 19 Enterprise
-  lab: end-to-end sales / purchase cycles, Studio customisation, and n8n
-  integration over the XML-RPC API. *(Coming soon.)*
-- **AI Engineering Intern at EDM** — a Python / FastAPI document-intelligence
-  service with hybrid retrieval over Qdrant and a Neo4j knowledge graph,
-  automated with n8n and containerised with Docker.
+* Built document-processing and retrieval workflows using Python, FastAPI, Qdrant and Neo4j.
+* Automated ingestion through n8n and REST APIs, with Docker, pytest and technical documentation.
+* Participated in pre-sales discovery visits to understand public-sector workflows and explore digitalisation opportunities.
 
-## Tech I work with
+**UFA Assurance — Backend Development Internship**
 
-- **Languages:** Python, SQL, C#, JavaScript
-- **Backend:** FastAPI, ASP.NET, Entity Framework Core, Node.js / Express, REST APIs
-- **Databases:** PostgreSQL, MySQL, SQL Server, Oracle, Neo4j
-- **Data & AI:** Qdrant, RAG, GraphRAG, Tesseract OCR
-- **ERP & automation:** Odoo (configuration, Studio, XML-RPC), n8n
-- **Tools:** Git, Docker, Azure DevOps, Linux, pytest
+* Worked with C#, ASP.NET, Entity Framework Core and SQL Server on an insurance platform.
+* Implemented business-rule and Excel-import validation with detailed error reporting.
+* Checked application behaviour through UI verification and database inspection.
 
-## Reach me
+## Selected projects
 
-- ✉️ jalalalarab566@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/jalal-al-arab-8a54a92a3)
+### Odoo Trading & Automation Lab
+
+A self-directed preparation sandbox exploring:
+
+* Sales, purchasing, inventory, invoicing and payment workflows.
+* Payment terms, discounts, margins and Odoo Studio customisation.
+* Two-way n8n integration to retrieve and create contact records through XML-RPC.
+
+### Smart Correspondence Tracking System
+
+A university capstone prototype built with React, Node.js, Express and MySQL, featuring role-based access, status tracking and reporting.
+
+Presented as a proposed solution for correspondence and complaint management; not deployed in production.
+
+## Technical skills
+
+* **Testing and validation:** pytest, UI verification, database checks, input validation.
+* **Business applications:** Odoo configuration, Odoo Studio, n8n.
+* **Data and integrations:** SQL, PostgreSQL, SQL Server, MySQL, REST APIs, XML-RPC.
+* **Development:** Python, FastAPI, C#, ASP.NET, Entity Framework Core, JavaScript.
+* **Tools:** Git, Docker.
+
+## Contact
+
+* [LinkedIn](https://www.linkedin.com/in/jalal-al-arab-8a54a92a3)
+* [Email](mailto:jalalalarab566@gmail.com)
