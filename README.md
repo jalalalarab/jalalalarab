@@ -1,4 +1,4 @@
-<img width="549" height="698" alt="image" src="https://github.com/user-attachments/assets/20c5bc12-b4df-46af-b79a-fde3cc06ad4e" /><img width="549" height="698" alt="image" src="https://github.com/user-attachments/assets/443499b4-824d-4614-a4bb-b3ec635563a1" /># Hi, I'm Jalal
+# Hi, I'm Jalal
 
 **Computer Science Graduate | Technical Support & Software Implementation**
 
